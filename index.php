@@ -24,7 +24,6 @@ for ($i = 0; $i < 10; $i++) {
     echo $i;
 }
 
-
 echo"<br><br>";
 //Quatrieme ligne
 $colors = array("red", "green", "blue", "yellow");
